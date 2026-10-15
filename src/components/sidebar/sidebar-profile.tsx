@@ -21,7 +21,6 @@ export function SidebarProfile({
           <p className="truncate text-sm font-semibold text-content">{name}</p>
           <p className="mt-0.5 text-xs text-content-muted">{workspaceName}</p>
         </div>
-        <ChevronDown className="ml-auto size-4 shrink-0 text-content-muted" />
       </div>
     </div>
   );
