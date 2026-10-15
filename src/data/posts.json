@@ -1,0 +1,239 @@
+[
+  {
+    "id": "post-001",
+    "content": " A behind-the-scenes look at the small details that make a launch feel effortless, from the first idea to the final review. A behind-the-scenes look at the small details that make a launch feel effortless, from the first idea to the final review.",
+    "platforms": ["instagram", "facebook"],
+    "mediaUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-08T09:30:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-002",
+    "content": "Three simple questions to ask before your next content planning session.",
+    "platforms": ["x"],
+    "scheduledAt": "2026-10-09T12:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-003",
+    "content": "Fresh ideas need a reliable process. Here is how our team protects focused time while still keeping every campaign moving. Here is how our team protects focused time while still keeping every campaign moving.",
+    "platforms": ["tiktok", "instagram"],
+    "mediaUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-11T14:30:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-004",
+    "content": "A practical way to turn weekly priorities into content your audience will save.",
+    "platforms": ["facebook", "x"],
+    "scheduledAt": "2026-10-13T10:15:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-005",
+    "content": "A fresh week deserves a fresh perspective. Here are three small rituals that help our team start with more clarity and energy.",
+    "platforms": ["instagram", "facebook"],
+    "mediaUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-15T09:00:00.000Z",
+    "status": "failed",
+    "errorMessage": "The Instagram connection expired. Retry to publish."
+  },
+  {
+    "id": "post-006",
+    "content": "A clear calendar makes it easier to spend more time creating and less time coordinating.",
+    "platforms": ["x", "facebook"],
+    "scheduledAt": "2026-10-15T11:30:00.000Z",
+    "status": "failed",
+    "errorMessage": "The connection to X could not be established."
+  },
+  {
+    "id": "post-007",
+    "content": "The best content workflow is the one your whole team can follow every day.",
+    "platforms": ["tiktok"],
+    "scheduledAt": "2026-10-15T15:00:00.000Z",
+    "status": "failed",
+    "errorMessage": "The publishing service timed out. Please try again."
+  },
+  {
+    "id": "post-008",
+    "content": "Behind every consistent brand is a team that can see what is coming next and has enough space to prepare for it.",
+    "platforms": ["instagram", "tiktok"],
+    "mediaUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-16T07:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-009",
+    "content": "Planning content should feel organized, not overwhelming.",
+    "platforms": ["facebook", "x"],
+    "scheduledAt": "2026-10-16T10:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-010",
+    "content": "Save this for your next planning session: clarity first, momentum second, polish last.",
+    "platforms": ["tiktok", "instagram"],
+    "scheduledAt": "2026-10-16T14:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-011",
+    "content": "Make space for creative work by giving routine tasks a reliable home, so the team can spend more time on ideas that matter.",
+    "platforms": ["facebook"],
+    "mediaUrl": "https://images.unsplash.com/photo-1497215842964-222b430dc094?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-17T08:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-012",
+    "content": "Friday reminder: celebrate progress, review what worked, and prepare for next week.",
+    "platforms": ["instagram", "facebook"],
+    "scheduledAt": "2026-10-17T12:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-013",
+    "content": "A practical social media workflow starts with visibility across every channel.",
+    "platforms": ["facebook", "instagram", "tiktok"],
+    "scheduledAt": "2026-10-17T16:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-014",
+    "content": "Set your goals, map the message, schedule the work, and make room for feedback before the campaign reaches its final draft.",
+    "platforms": ["instagram"],
+    "mediaUrl": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-18T09:15:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-015",
+    "content": "A well-planned week lets your team spend less time coordinating and more time creating.",
+    "platforms": ["facebook", "x"],
+    "scheduledAt": "2026-10-18T13:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-016",
+    "content": "Fresh ideas deserve a dependable path from draft to published post.",
+    "platforms": ["tiktok", "instagram"],
+    "scheduledAt": "2026-10-18T17:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-017",
+    "content": "Customer story: how a focused content plan helped one small team publish consistently without adding more meetings to the week.",
+    "platforms": ["facebook", "instagram"],
+    "mediaUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-19T08:45:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-018",
+    "content": "A quick look at the three metrics we review before planning the next campaign.",
+    "platforms": ["x", "facebook"],
+    "scheduledAt": "2026-10-19T11:15:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-019",
+    "content": "Use your calendar as a decision-making tool, not just a list of publishing dates.",
+    "platforms": ["instagram", "facebook"],
+    "scheduledAt": "2026-10-19T15:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-020",
+    "content": "One dashboard. Every post. A clearer way to plan your publishing rhythm.",
+    "platforms": ["tiktok", "x"],
+    "scheduledAt": "2026-10-20T07:45:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-021",
+    "content": "Your audience notices consistency. Build a process that makes it sustainable for the people creating, reviewing, and publishing each post.",
+    "platforms": ["facebook", "instagram", "tiktok"],
+    "mediaUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-20T10:15:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-022",
+    "content": "The strongest ideas get better when they have a clear place to go next.",
+    "platforms": ["x"],
+    "scheduledAt": "2026-10-20T14:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-023",
+    "content": "Turn one useful insight into a week of thoughtful conversations.",
+    "platforms": ["instagram", "tiktok"],
+    "scheduledAt": "2026-10-21T08:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-024",
+    "content": "Give every campaign a simple owner, a clear deadline, and enough room for better ideas before the final approval is due.",
+    "platforms": ["facebook"],
+    "mediaUrl": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-21T12:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-025",
+    "content": "What would your team create with one less status meeting this week?",
+    "platforms": ["x", "instagram"],
+    "scheduledAt": "2026-10-21T16:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-026",
+    "content": "A small library of repeatable content formats helps good ideas travel further.",
+    "platforms": ["tiktok", "facebook"],
+    "scheduledAt": "2026-10-22T09:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-027",
+    "content": "Share the lesson you learned the hard way so someone else can skip the detour.",
+    "platforms": ["instagram", "facebook"],
+    "scheduledAt": "2026-10-22T13:15:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-028",
+    "content": "Good work compounds: one thoughtful post, one helpful reply, one meaningful connection.",
+    "platforms": ["x"],
+    "scheduledAt": "2026-10-22T17:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-029",
+    "content": "The best ideas rarely arrive fully formed. Give yourself room for a first draft, a thoughtful revision, and a stronger final message.",
+    "platforms": ["tiktok", "instagram"],
+    "mediaUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=640&q=80",
+    "scheduledAt": "2026-10-23T08:15:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-030",
+    "content": "Consistency beats intensity when you are building something that lasts.",
+    "platforms": ["facebook", "instagram"],
+    "scheduledAt": "2026-10-23T11:45:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-031",
+    "content": "Meet the people behind the process. This week we are celebrating our curious community.",
+    "platforms": ["facebook", "x", "instagram"],
+    "scheduledAt": "2026-10-23T15:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-032",
+    "content": "Start with the next useful post, then keep making the process easier for your future self.",
+    "platforms": ["tiktok", "facebook"],
+    "scheduledAt": "2026-10-23T18:30:00.000Z",
+    "status": "scheduled"
+  }
+]
