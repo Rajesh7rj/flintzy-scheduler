@@ -64,13 +64,15 @@ src/
 └── types/
 ```
 
-## Implementation notes
+## Key decisions
 
-The publishing page reads the local post data on the server. Interactive pieces such as search, filters, the composer, modal, mobile navigation, and retry state run in client components.
-
-`scheduledAt` is stored as an ISO UTC value. Dates shown in the queue use the browser's local time zone. Search and filter values are kept in `q`, `platform`, and `status` query parameters, so the current queue view can be refreshed or shared.
-
-When a failed post is retried, the UI shows a processing state for one second. The mock request succeeds most of the time and changes the post to `scheduled`; a simulated failure returns it to `failed` with an error message.
+- Routes sit inside a `(workspace)` route group so Dashboard, Analytics, and Publishing share the same application shell without changing their URLs.
+- The workspace shell owns navigation, the responsive sidebar, and the header. Each route only renders its own page content.
+- The publishing page loads the initial post data on the server. Search, filters, the composer, modal, retry action, and mobile navigation are client-side because they respond to user input.
+- Components are grouped by feature: queue, composer, filters, sidebar, and shared UI. This keeps the publishing page focused on composing those pieces together.
+- The layout uses a persistent sidebar on larger screens and a drawer on smaller screens. The publishing controls stay in the Publishing header, while Dashboard and Analytics use a simpler header.
+- Queue states are explicit: loading placeholders, a filter empty state, retry feedback, and an application error screen. A newly scheduled post is highlighted and scrolled into view.
+- Scheduled dates are stored as UTC values and shown in the browser's local time zone. Search and filter values use query parameters so the current queue view can be refreshed or shared.
 
 ## Scope and assumptions
 
