@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, type FormEvent } from "react";
+import { useState, type SyntheticEvent } from "react";
 import { CalendarDays, ImageIcon, Send } from "lucide-react";
 import { PlatformIcon } from "@/components/shared/platform-icon";
 import { PLATFORM_CONFIG, PLATFORMS } from "@/lib/constants";
@@ -45,7 +45,7 @@ export function PostComposer({ onSchedule, onCancel }: PostComposerProps) {
     );
   }
 
-  function handleSubmit(event: FormEvent<HTMLFormElement>) {
+  function handleSubmit(event: SyntheticEvent<HTMLFormElement>) {
     event.preventDefault();
 
     const trimmedContent = content.trim();
